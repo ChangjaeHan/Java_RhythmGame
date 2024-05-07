@@ -1,5 +1,10 @@
 # Java_RhythmGame
-Sophomore game making projects reuploaded
+Sophomore game making projects reuploaded  
+본 게임은 동빈나 https://www.youtube.com/watch?v=zx0KvaepM5s&list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR&index=16 영상을 클론코딩 하였으며,
+스코어 버튼, 점수 판, 게임 정보 버튼을 따로 구축하였습니다.  
+
+
+
 
 ## 조작 :video_game:  
 
