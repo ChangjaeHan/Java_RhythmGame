@@ -1,7 +1,7 @@
-![image](https://github.com/ChangjaeHan/Java_RhythmGame/assets/83817116/441aae6c-9e00-4f1d-8e18-8c8aeaa5a680)# Java_RhythmGame
+# Java_RhythmGame
 Sophomore game making projects reuploaded
 
-## 조작:video_game:  
+## 조작 :video_game:  
 
 ● 키보드 S, D, F, 스페이스 바, J, K, L: 노트 버튼
 
